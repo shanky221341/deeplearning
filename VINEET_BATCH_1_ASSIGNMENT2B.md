@@ -1,3 +1,7 @@
+
+Assignment 2a:
+[deeplearning/CS231n-python-numpy-tutorial.ipynb at master · shanky221341/deeplearning · GitHub](https://github.com/shanky221341/deeplearning/blob/master/CS231n-python-numpy-tutorial.ipynb)
+
 ## Python Code to generate random numbers
 ```
 import numpy 
